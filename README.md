@@ -49,8 +49,7 @@
 ---
 ## 🤝 Open to work
 
-Currently seeking full time positions for software developer engineer, data scientist roles.
--->
+Currently seeking internship positions for software developer engineer, data scientist and machine learning roles.
 
 ---
 
