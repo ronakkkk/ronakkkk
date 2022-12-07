@@ -5,7 +5,7 @@
 - 🎓 Computer Science Grad at [Indiana University Bloomington](https://cs.indiana.edu/about/index.html) , GPA : 4/ 4
 - 👀 I’m interested in Data Science Related Topics and Projects
 - 🌱 I’m currently learning Advanced Deep Learning Models
-- 📫 How to reach me? email-me: rishibhagchandani123@gmail.com
+- 📫 How to reach me? email-me: rishibhagchandani123@gmail.com/rbhagcha@iu.edu
 - Python Libraries (Pypi) Links: 
     i.  https://pypi.org/project/bestregressionmodel/ 
     ii. https://pypi.org/project/BestClassificationModel/
