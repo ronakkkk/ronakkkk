@@ -56,11 +56,6 @@ Currently seeking internship positions for software developer engineer, data sci
 ### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=ronakkkk&style=plastic&label=profile+views&color=blueviolet) 
 
-<a href="https://github.com/ronakkkk">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronakkkk&show_icons=true&theme=dark&line_height=27" alt="Ronak's github stats"/>
-</a>
-
-
 [resources]: https://ronakkkk.github.io/Resources/
 
 
