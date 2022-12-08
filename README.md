@@ -47,7 +47,8 @@
 <br />
 
 ---
-## 🤝 Open to work
+
+### 🤝 Open to work
 
 Currently seeking internship positions for software developer engineer, data scientist and machine learning roles.
 
