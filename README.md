@@ -2,7 +2,7 @@
 ### About me:
 
 - 👋 Hi, I’m Ronak Bhagchandani (@ronakkkk)
-- 🎓 Computer Science Grad at [Indiana University Bloomington](https://cs.indiana.edu/about/index.html) , GPA : 4/ 4
+- 🎓 Computer Science Grad at [Indiana University Bloomington](https://cs.indiana.edu/about/index.html) , GPA : 3.8/ 4
 - 👀 I’m interested in Data Science Related Topics and Projects
 - 🌱 I’m currently learning Advanced Deep Learning Models
 - 📫 How to reach me? email-me: rishibhagchandani123@gmail.com/rbhagcha@iu.edu
