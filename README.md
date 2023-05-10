@@ -16,7 +16,7 @@
 
 - ⚽️ I’m a Sports Buff
 - 👯 Have a good idea ? Connect with me Let's Collaborate 
-- 🥅 2022 Goals: Improving machine learning model by removing biasness from the model using MinDiff Model.
+- 🥅 2023 Goals: Improving machine learning model by removing biasness from the model using MinDiff Model and Explainable AI.
 
 
 ### Connect with me:
