@@ -17,15 +17,7 @@
 - ⚽️ I’m a Sports Buff
 - 👯 Have a good idea ? Connect with me Let's Collaborate 
 - 🥅 2023 Goals: Improving machine learning model by removing biasness from the model using MinDiff Model and Explainable AI.
-
-
-### Connect with me:
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ronakkkk)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-bhagchandani/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_ronrish_/)
-
-<br />
+<!-- <br/> -->
 
 ### Languages and Tools:
 
@@ -45,12 +37,27 @@
 
 <br />
 <br />
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ronakkkk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Ronak's github stats](https://github-readme-stats.vercel.app/api?username=ronakkkk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+### Connect with me:
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ronakkkk)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-bhagchandani/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_ronrish_/)
+
+<br />
+<br />
 
 ---
 
 ### 🤝 Open to work
 
-Currently seeking internship positions for software developer engineer, data scientist and machine learning roles.
+Currently seeking opportunities as a Python Developer, Data Scientist or Machine Learning roles.
 
 ---
 
