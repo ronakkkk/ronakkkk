@@ -130,8 +130,7 @@
 
 ### 🤝 Open to work
 
-Currently seeking opportunities as a Python Developer, Data Scientist or Machine Learning roles.
-
+Currently seeking opportunities as a Software Engineer, and Backend Engineer
 ---
 
 ### Thanks for taking a peek! 🥳 
