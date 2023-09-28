@@ -130,7 +130,7 @@
 
 ### 🤝 Open to work
 
-Currently seeking opportunities as a Software Engineer, and Backend Engineer
+Currently seeking opportunities as a Software Engineer or a Backend Engineer
 ---
 
 ### Thanks for taking a peek! 🥳 
